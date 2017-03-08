@@ -11,3 +11,8 @@ This is a simple client used for connecting to a GoogleMaps API to obtain direct
 2. Obtain a key and authenticate it by following the given steps
 3. Import the Googlemaps library and use the Client class to create a Key
 4. Follow the given guide in the chosen library to use. 
+
+## 3 Step Directions to Use the Given Sample
+1. Fork the Code
+2. Clone the Code
+3. Run the Code
