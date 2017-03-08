@@ -6,4 +6,4 @@ Python Client for Obtaining Directions from GoogleMaps
 ## Description
 This is a simple client used for connecting to a GoogleMaps API to obtain directions.
 
- ##Directions on Use
+##Directions on Use
