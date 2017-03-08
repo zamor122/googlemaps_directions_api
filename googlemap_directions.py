@@ -6,7 +6,6 @@ import googlemaps
 import json, urllib
 from urllib import urlencode
 import re
-import os.path
 #authorizing client using key
 gmaps = googlemaps.Client(key='AIzaSyB_VMjaJzWr9U6RatHtmJBoSrEbOWgC7vg')
 def sendRequest():
